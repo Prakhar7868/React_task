@@ -1,0 +1,14 @@
+.parent-container{
+    max-width: 400px;
+    margin:0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.parent-container h2{
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
